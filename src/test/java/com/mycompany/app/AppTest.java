@@ -20,6 +20,6 @@ public class AppTest
     public void testAppMessage()
     {
         App app = new App();
-        assertEquals("Hello World! Its Me Timmy!!! Hope the webhook works", app.getMessage());
+        assertEquals("Hello World! Its Me Timmy!!! The webhook works", app.getMessage());
     }
 }
