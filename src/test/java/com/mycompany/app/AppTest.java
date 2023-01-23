@@ -20,6 +20,6 @@ public class AppTest
     public void testAppMessage()
     {
         App app = new App();
-        assertEquals("Hello World! Its me Timmy!!!", app.getMessage());
+        assertEquals("Hello World! Its Me Timmy!!!", app.getMessage());
     }
 }
